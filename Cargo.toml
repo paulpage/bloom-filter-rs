@@ -1,0 +1,9 @@
+[package]
+name = "bloom"
+version = "0.1.0"
+authors = ["Paul Page <pjpage98@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+bit-vec = "0.5.1"
+time = "*"
